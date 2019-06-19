@@ -1,0 +1,1 @@
+# string-to-CamelCase-in-Go
